@@ -1,2 +1,5 @@
 git config --global user.name "Saif ALi Ansari"
 git config --global user.email "saifaliansari438@gmail.com"
+git init
+git status
+git commit -m "adding github.txt"
